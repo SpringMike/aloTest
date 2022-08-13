@@ -1,0 +1,13 @@
+label {
+  color: #9fa4a2;
+}
+table .btn{
+  margin: 10px 10px 10px 3px;
+}
+.disabled-link {
+  pointer-events: none;
+}
+p.text-error {
+  color: red;
+  margin-top: 10px;
+}
